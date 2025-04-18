@@ -1,5 +1,7 @@
 # App de Controle Financeiro Pessoal
 
+#Testando conexao
+
 ## Descrição
 Aplicativo para controle financeiro pessoal, permitindo ao usuário registrar receitas, despesas, categorizar transações, visualizar relatórios e acompanhar o saldo.
 
