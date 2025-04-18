@@ -39,8 +39,5 @@ Aplicativo para controle financeiro pessoal, permitindo ao usuário registrar re
 - Banco de dados: SQLite (padrão, pode ser trocado por outro)
 
 ## Próximos Passos
-1. Inicializar o projeto Python e criar o arquivo requirements.txt
-2. Definir os modelos principais (Transacao, Categoria, Usuario)
-3. Implementar a interface inicial com Streamlit para cadastro e listagem de transações
-4. Adicionar funcionalidades de relatório e filtros
-5. Escrever testes básicos para as principais funções 
+1. Receitas recorrentes quebradas
+2. Cadastrar depesas com categorias e período de parcelas com problema na interface.
